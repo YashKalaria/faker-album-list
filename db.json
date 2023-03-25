@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Vernon Batz",
+      "id": 2
+    }
+  ],
+  "albums": [
+    {
+      "userId": 2,
+      "title": "Generic Steel Chair",
+      "id": 1
+    }
+  ],
+  "photos": []
+}
